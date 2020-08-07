@@ -1,7 +1,7 @@
 /*
-Nama  : Rifky Thara Basuki
+Nama  : Rifqi Maheswara Karuniyawan
 Kelas : XI RPL 2
-No    : 25
+No    : 26
  */
 
 fun main(){
